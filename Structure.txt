@@ -1,0 +1,15 @@
+|- Car Rental
+	|- CSS
+		|- Style.css
+	|- JS
+		|- Script.js
+	|- Images
+	|- Index.html
+	|- Login.html
+	|- Register.html
+	|- Home.html
+	|- History.html
+	|- Account.html
+	|- Search.html
+	|- Search-main.html
+	|- Booking.html
